@@ -1,5 +1,4 @@
 const multipliCation = (integer) => {
-  console.log(integer **2);
+  return integer **2;
 }
-
-multipliCation(6);
+console.log(multipliCation(7));
